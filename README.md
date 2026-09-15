@@ -131,7 +131,6 @@
 
 - **Telegram:** [@burjyi](https://t.me/burjyi)
 - **Сайт:** [bothubpro.ru](https://bothubpro.ru)
-- **Домен:** [bothub.by](https://bothub.by)
 
 ---
 
